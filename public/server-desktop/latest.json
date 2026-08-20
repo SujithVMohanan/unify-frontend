@@ -3,15 +3,15 @@
   "appUrl": "http://13.233.91.64:3000",
   "platform": "win32",
   "installer": {
-    "name": "UnifyHub Server-Setup-0.1.0.exe",
-    "url": "/server-desktop/UnifyHub%20Server-Setup-0.1.0.exe",
-    "size": 92281732
+    "name": "UnifyHub-Setup-0.1.0.exe",
+    "url": "/server-desktop/UnifyHub-Setup-0.1.0.exe",
+    "size": 92296399
   },
   "portable": null,
   "latestYml": {
     "name": "latest.yml",
     "url": "/server-desktop/latest.yml",
-    "size": 358
+    "size": 344
   },
-  "releasedAt": "2026-08-20T10:55:28.005Z"
+  "releasedAt": "2026-08-20T11:37:21.630Z"
 }
