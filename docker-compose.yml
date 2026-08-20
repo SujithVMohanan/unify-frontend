@@ -1,3 +1,5 @@
+name: unifyhub-frontend
+
 services:
   web:
     build: .
@@ -7,3 +9,8 @@ services:
     environment:
       PORT: "3000"
       HOSTNAME: 0.0.0.0
+    logging:
+      driver: json-file
+      options:
+        max-size: "20m"
+        max-file: "5"
