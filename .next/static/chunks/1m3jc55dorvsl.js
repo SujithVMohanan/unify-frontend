@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,82780,t=>{"use strict";var e=t.i(71645),s=t.i(18566);t.s(["default",0,function(){let t=(0,s.useParams)(),u=(0,s.useRouter)();return(0,e.useEffect)(()=>{u.replace(`/chats/${t.id}/settings?tab=tickets`)},[t.id,u]),null}])}]);

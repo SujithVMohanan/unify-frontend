@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,13493,e=>{"use strict";var t=e.i(71645),s=e.i(18566);e.s(["default",0,function(){let e=(0,s.useParams)(),u=(0,s.useRouter)();return(0,t.useEffect)(()=>{u.replace(`/chats/${e.id}/settings?tab=files`)},[e.id,u]),null}])}]);
