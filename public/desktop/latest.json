@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "appUrl": "http://localhost:3000",
+  "platform": "win32",
+  "installer": {
+    "name": "UnifyHub-Setup-0.1.0.exe",
+    "url": "/desktop/UnifyHub-Setup-0.1.0.exe",
+    "size": 92281620
+  },
+  "portable": null,
+  "latestYml": {
+    "name": "latest.yml",
+    "url": "/desktop/latest.yml",
+    "size": 344
+  },
+  "releasedAt": "2026-08-19T14:59:40.477Z"
+}
