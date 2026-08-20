@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "pack:server": "node scripts/pack-server.cjs",
-    "build:server": "next build && node scripts/pack-server.cjs",
+    "build:server": "node scripts/build-server.cjs",
     "start": "next start",
     "lint": "eslint"
   },
