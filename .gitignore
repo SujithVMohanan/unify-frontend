@@ -1,2 +1,4 @@
 *.exe
 *.blockmap
+.next/trace
+.next/trace-build
