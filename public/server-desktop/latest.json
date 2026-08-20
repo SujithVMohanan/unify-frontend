@@ -5,7 +5,7 @@
   "installer": {
     "name": "UnifyHub-Setup-0.1.0.exe",
     "url": "/server-desktop/UnifyHub-Setup-0.1.0.exe",
-    "size": 92297149
+    "size": 92297146
   },
   "portable": null,
   "latestYml": {
@@ -13,5 +13,5 @@
     "url": "/server-desktop/latest.yml",
     "size": 344
   },
-  "releasedAt": "2026-08-20T11:50:54.216Z"
+  "releasedAt": "2026-08-20T12:03:35.496Z"
 }
